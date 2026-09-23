@@ -1,7 +1,23 @@
 ---
-title: "gingersknapp.github.io"
+title: "Olivia Knapp"
+image: "media/headshot.avif"
+toc: false
+about: 
+    template: trestles
+    #image-shape: round
+    #image-width: 17em
+    links:
+        #- #text: LinkedIn
+          #href:
+          #target: _blank
+        - text: GitHub
+          href: https://github.com/gingersknapp
+          target: _blank
+        - text: Email
+          href: mailto:oknapp@ucsb.edu
 ---
 
-This is a Quarto website.  Happy Fall!
+Olivia Knapp is a master’s student of Environmental Data Science.  She seeks to leverage ecological research and modeling to understand the interactions between plants, animals, water, and disturbance that shape California’s landscapes. When they’re not contemplating California’s oak savannahs and trade-networks pre European-contact or illustrating local flora and fauna, Olivia enjoys gardening and learning new crafting skills. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
